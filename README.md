@@ -75,23 +75,23 @@ Built with scalability in mind, the platform is designed to handle growing user 
 
 ## ⚙️ Planned Optimizations
 
-Performance Improvements: Implement lazy loading and code splitting to enhance load times and user experience.
+- **Performance Improvements**: Implement lazy loading and code splitting to enhance load times and user experience.
 
-Search Enhancement: Integrate full-text search for more efficient property discovery based on multiple criteria.
+- **Search Enhancement**: Integrate full-text search for more efficient property discovery based on multiple criteria.
 
-Scalable Backend: Migrate to a microservices architecture with Node.js to improve scalability and service management.
+- **Scalable Backend**: Migrate to a microservices architecture with **Node.js** to improve scalability and service management.
 
-Advanced Caching: Use Redis for caching popular property listings, reducing server load and improving page speed.
+- **Advanced Caching**: Use **Redis** for caching popular property listings, reducing server load and improving page speed.
 
-Real-Time Notifications: Implement push notifications for instant updates on property status and offers.
+- **Real-Time Notifications**: Implement push notifications for instant updates on property status and offers.
 
 ---
 
 ## 📚 Lessons Learned
 
 
-User-Centric Design: Prioritizing an intuitive, user-friendly interface significantly improves user engagement and satisfaction.
+- **User-Centric Design**: Prioritizing an intuitive, user-friendly interface significantly improves user engagement and satisfaction.
 
-Scalability Challenges: Early consideration of scaling the backend for increasing traffic helps avoid bottlenecks and performance issues down the line.
+- **Scalability Challenges**: Early consideration of scaling the backend for increasing traffic helps avoid bottlenecks and performance issues down the line.
 
-Integration Complexity: Ensuring seamless integration with third-party services like Stripe and Firebase requires meticulous attention to detail to prevent issues with payments and authentication.
+- **Integration Complexity**: Ensuring seamless integration with third-party services like **Stripe** and **Firebase** requires meticulous attention to detail to prevent issues with payments and authentication.
