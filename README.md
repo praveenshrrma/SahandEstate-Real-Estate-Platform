@@ -60,7 +60,6 @@ Utilizes Firebase Authentication for robust security, ensuring a secure sign-in 
 
 Scalable Infrastructure
 Built with scalability in mind, the platform is designed to handle growing user bases and increasing traffic, powered by Node.js and MongoDB.
-
 ---
 
 ## ⚙️ Planned Optimizations
