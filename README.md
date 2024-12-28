@@ -1,7 +1,8 @@
 ## 📚 Introduction
 
-SahandEstate is a full-stack real estate platform designed to facilitate seamless property listings, user management, and interactive features for both buyers and sellers. Built with the latest web technologies, this project offers a smooth and intuitive user experience for registering, signing in, updating profiles, listing properties, and browsing available real estate offers. 
+SahandEstate is a full-stack real estate platform designed to facilitate seamless property listings, user management, and interactive features for both buyers and sellers. Built with the latest web technologies, this project offers a smooth and intuitive user experience for registering, signing in, updating profiles, listing properties, and browsing available real estate offers.  
 The platform leverages a modern tech stack including React, Node.js, MongoDB, and Firebase for authentication and file storage. With integrated payment processing via Stripe, users can securely purchase and manage their listings. Additionally, the platform features an admin dashboard for managing user activities and property listings, making it a comprehensive solution for real estate transactions.
+
 ---
 
 ## ⚙️ Tech Used
@@ -60,6 +61,7 @@ Utilizes Firebase Authentication for robust security, ensuring a secure sign-in 
 
 Scalable Infrastructure
 Built with scalability in mind, the platform is designed to handle growing user bases and increasing traffic, powered by Node.js and MongoDB.
+
 ---
 
 ## ⚙️ Planned Optimizations
