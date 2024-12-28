@@ -19,29 +19,47 @@ The platform leverages a modern tech stack including React, Node.js, MongoDB, an
 
 ## 🔋 Features
 
-1. **Seamless User Authentication & Authorization**  
-   Integrated with **Auth0**, the platform ensures secure user sign-up, login, and role-based access control, providing a highly secure and scalable authentication system.
+User Registration & Profile Management
+Seamless user authentication and account management system powered by Firebase, allowing users to create, update, and manage their personal profiles.
 
-2. **Real-time Product Management Dashboard**  
-   A fully-featured admin dashboard that allows admins to manage products (add, update, delete), view analytics, and feature products, enhancing the platform's flexibility and usability.
+Property Listings Management
+Users can effortlessly browse, add, edit, and delete property listings. Property details include high-quality images, price, location, description, and amenities.
 
-3. **Stripe Payment Integration**  
-   Secure and efficient payment processing using **Stripe**, enabling seamless transactions with features like coupon codes and gift card support for a superior customer experience.
+Integrated Search & Filters
+Advanced search functionality with filters based on property type, price range, location, and more, providing users with a tailored property discovery experience.
 
-4. **Responsive UI Built with Tailwind CSS**  
-   The front-end is designed using **Tailwind CSS**, ensuring a highly responsive and visually appealing user interface that works seamlessly across all devices.
+Real-Time Data Updates
+Live property updates, including price changes, availability, and listing status. Users can view real-time changes to listings and transactions.
 
-5. **Product Filtering and Pagination**  
-   Implementing advanced **filtering**, **sorting**, and **pagination** for products, allowing users to easily browse through categories, find featured products, and make informed purchases.
+Payment Processing with Stripe
+Secure and efficient payment gateway integration with Stripe, enabling users to easily make payments for property purchases or services offered on the platform.
 
-6. **Real-time Order Status Tracking**  
-   A dynamic order tracking system that updates users on the status of their orders in real-time, providing transparency and improving customer satisfaction.
+Admin Dashboard
+A robust admin panel for managing user accounts, property listings, and monitoring transactions. Admins can approve, reject, or edit listings and view user activity in real-time.
 
-7. **Scalable Cloud Deployment on Render**  
-   The entire application is deployed on **Render**, a powerful cloud platform, ensuring fast, reliable, and scalable hosting for both front-end and back-end components.
+Responsive Design
+Fully responsive, mobile-first design using Tailwind CSS, ensuring an optimal viewing experience across a wide range of devices, from smartphones to desktops.
 
-8. **Gift Card and Coupon System**  
-   Integrated **gift card** and **coupon** features, offering users discounts and promotions, adding an extra layer of engagement and value to the customer experience.
+Interactive Map View
+Visual property location display with an integrated map for users to easily explore properties in specific areas or neighborhoods.
+
+User Reviews & Ratings
+Allows users to leave reviews and ratings for properties, enhancing trust and providing feedback for other potential buyers or renters.
+
+File Uploads with Firebase
+Simple and secure file upload system for users to add property images, floor plans, and other documents related to their listings using Firebase Storage.
+
+Notifications & Alerts
+Real-time email and in-app notifications to inform users about listing status updates, new messages, or changes in the property they are interested in.
+
+Advanced Analytics
+Track user behavior and property performance with detailed analytics on views, interactions, and purchases, helping sellers optimize their listings.
+
+Secure User Authentication
+Utilizes Firebase Authentication for robust security, ensuring a secure sign-in and user verification process.
+
+Scalable Infrastructure
+Built with scalability in mind, the platform is designed to handle growing user bases and increasing traffic, powered by Node.js and MongoDB.
 
 ---
 
