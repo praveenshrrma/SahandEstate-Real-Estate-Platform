@@ -29,46 +29,46 @@ The platform leverages a modern tech stack including React, Node.js, MongoDB, an
 
 ## 🔋 Features
 
-### **User Registration & Profile Management**  
+### 1. **User Registration & Profile Management**  
 Seamless user authentication and account management system powered by **Firebase**, allowing users to create, update, and manage their personal profiles.
 
-### **Property Listings Management**  
+### 2. **Property Listings Management**  
 Users can effortlessly **browse**, **add**, **edit**, and **delete** property listings. Property details include **high-quality images**, **price**, **location**, **description**, and **amenities**.
 
-### **Integrated Search & Filters**  
+### 3. **Integrated Search & Filters**  
 Advanced search functionality with **filters** based on property type, **price range**, **location**, and more, providing users with a tailored property discovery experience.
 
-### **Real-Time Data Updates**  
+### 4. **Real-Time Data Updates**  
 Live property updates, including **price changes**, **availability**, and **listing status**. Users can view real-time changes to listings and transactions.
 
-### **Payment Processing with Stripe**  
+### 5. **Payment Processing with Stripe**  
 **Secure** and efficient payment gateway integration with **Stripe**, enabling users to easily make payments for property purchases or services offered on the platform.
 
-### **Admin Dashboard**  
+### 6. **Admin Dashboard**  
 A robust **admin panel** for managing user accounts, property listings, and monitoring transactions. Admins can **approve**, **reject**, or **edit** listings and view user activity in real-time.
 
-### **Responsive Design**  
+### 7. **Responsive Design**  
 Fully responsive, mobile-first design using **Tailwind CSS**, ensuring an optimal viewing experience across a wide range of devices, from smartphones to desktops.
 
-### **Interactive Map View**  
+### 8. **Interactive Map View**  
 Visual property location display with an integrated **map** for users to easily explore properties in specific areas or neighborhoods.
 
-### **User Reviews & Ratings**  
+### 9. **User Reviews & Ratings**  
 Allows users to leave **reviews** and **ratings** for properties, enhancing trust and providing feedback for other potential buyers or renters.
 
-### **File Uploads with Firebase**  
+### 10. **File Uploads with Firebase**  
 Simple and secure file upload system for users to add property images, floor plans, and other documents related to their listings using **Firebase Storage**.
 
-### **Notifications & Alerts**  
+### 11. **Notifications & Alerts**  
 Real-time **email** and **in-app notifications** to inform users about listing status updates, new messages, or changes in the property they are interested in.
 
-### **Advanced Analytics**  
+### 12. **Advanced Analytics**  
 Track user behavior and property performance with detailed **analytics** on views, interactions, and purchases, helping sellers optimize their listings.
 
-### **Secure User Authentication**  
+### 13. **Secure User Authentication**  
 Utilizes **Firebase Authentication** for robust security, ensuring a secure sign-in and user verification process.
 
-### **Scalable Infrastructure**  
+### 14. **Scalable Infrastructure**  
 Built with scalability in mind, the platform is designed to handle growing user bases and increasing traffic, powered by **Node.js** and **MongoDB**.
 
 ---
