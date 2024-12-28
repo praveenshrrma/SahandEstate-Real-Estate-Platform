@@ -76,6 +76,8 @@ Advanced Caching: Use Redis for caching popular property listings, reducing serv
 
 Real-Time Notifications: Implement push notifications for instant updates on property status and offers.
 
+---
+
 ## 📚 Lessons Learned
 
 
