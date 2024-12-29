@@ -1,8 +1,7 @@
 ![gif1](https://github.com/user-attachments/assets/e365dfaf-8f33-45cc-bb8c-bc24da285f2f)
 ![gif2](https://github.com/user-attachments/assets/b25f9d72-e19c-453a-9e40-d23e065744c4)
 ![gif3](https://github.com/user-attachments/assets/3200a425-807d-41d0-884a-42c8aab1d4a1)
-![gif4](https://github.com/user-attachments/assets/2625ff30-3959-412f-b645-9c8d65dc3326)
-
+![7](https://github.com/user-attachments/assets/9aea9fe5-4599-4852-b39e-aa100808e76d)
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/user-attachments/assets/f63d5826-0982-4fc8-8c7f-dce63b6f6fa9" width="49%" />
@@ -26,7 +25,6 @@ The platform leverages a modern tech stack including React, Node.js, MongoDB, an
 - 🏡 **Real-world CRUD Operations**: Create, read, update, and delete property listings using MongoDB.  
 - 💡 **User-friendly Features**: Enhance the user experience with image uploads, property listing management, and more.  
 - 🚀 **Advanced Search Functionality**: Implement cutting-edge search features to help users find what they're looking for.  
-
 
 ---
 
