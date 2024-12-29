@@ -2,6 +2,7 @@
 
 ![gif1](https://github.com/user-attachments/assets/e365dfaf-8f33-45cc-bb8c-bc24da285f2f)
 
+![gif2](https://github.com/user-attachments/assets/b25f9d72-e19c-453a-9e40-d23e065744c4)
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/user-attachments/assets/f63d5826-0982-4fc8-8c7f-dce63b6f6fa9" alt="1" width="49%" />
