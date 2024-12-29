@@ -17,10 +17,6 @@
   <img src="https://github.com/user-attachments/assets/f67eb811-968a-4c29-b1ed-4383b22283bc" alt="6" width="49%" />
 </div>
 
-
-![6](https://github.com/user-attachments/assets/f67eb811-968a-4c29-b1ed-4383b22283bc)
-
-
 ## 📚 Introduction
 
 SahandEstate is a full-stack real estate platform designed to facilitate seamless property listings, user management, and interactive features for both buyers and sellers. Built with the latest web technologies, this project offers a smooth and intuitive user experience for registering, signing in, updating profiles, listing properties, and browsing available real estate offers.  
