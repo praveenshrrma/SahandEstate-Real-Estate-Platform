@@ -12,10 +12,10 @@
   <img src="https://github.com/user-attachments/assets/edf37940-e03b-47ff-8ef0-0b08c0c61858" alt="3" width="49%" />
   <img src="https://github.com/user-attachments/assets/a80f170f-4470-400a-9d46-967eecceb2d6" alt="4" width="49%" />
 </div>
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/4ec29b77-480f-4adf-b45a-8963b0c61b79" alt="4" width="49%" />
+<div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/e4a0de6c-81dd-4739-ac8b-32b6de7ff454" alt="5" width="49%" />
 </div>
+
 
 
 ## 📚 Introduction
