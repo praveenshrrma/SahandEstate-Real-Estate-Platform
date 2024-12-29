@@ -57,34 +57,31 @@ Advanced search functionality with **filters** based on property type, **price r
 ### 4. **Real-Time Data Updates**  
 Live property updates, including **price changes**, **availability**, and **listing status**. Users can view real-time changes to listings and transactions.
 
-### 5. **Payment Processing with Stripe**  
-**Secure** and efficient payment gateway integration with **Stripe**, enabling users to easily make payments for property purchases or services offered on the platform.
-
-### 6. **Admin Dashboard**  
+### 5. **Admin Dashboard**  
 A robust **admin panel** for managing user accounts, property listings, and monitoring transactions. Admins can **approve**, **reject**, or **edit** listings and view user activity in real-time.
 
-### 7. **Responsive Design**  
+### 6. **Responsive Design**  
 Fully responsive, mobile-first design using **Tailwind CSS**, ensuring an optimal viewing experience across a wide range of devices, from smartphones to desktops.
 
-### 8. **Interactive Map View**  
+### 7. **Interactive Map View**  
 Visual property location display with an integrated **map** for users to easily explore properties in specific areas or neighborhoods.
 
-### 9. **User Reviews & Ratings**  
+### 8. **User Reviews & Ratings**  
 Allows users to leave **reviews** and **ratings** for properties, enhancing trust and providing feedback for other potential buyers or renters.
 
-### 10. **File Uploads with Firebase**  
+### 9. **File Uploads with Firebase**  
 Simple and secure file upload system for users to add property images, floor plans, and other documents related to their listings using **Firebase Storage**.
 
-### 11. **Notifications & Alerts**  
+### 10. **Notifications & Alerts**  
 Real-time **email** and **in-app notifications** to inform users about listing status updates, new messages, or changes in the property they are interested in.
 
-### 12. **Advanced Analytics**  
+### 11. **Advanced Analytics**  
 Track user behavior and property performance with detailed **analytics** on views, interactions, and purchases, helping sellers optimize their listings.
 
-### 13. **Secure User Authentication**  
+### 12. **Secure User Authentication**  
 Utilizes **Firebase Authentication** for robust security, ensuring a secure sign-in and user verification process.
 
-### 14. **Scalable Infrastructure**  
+### 13. **Scalable Infrastructure**  
 Built with scalability in mind, the platform is designed to handle growing user bases and increasing traffic, powered by **Node.js** and **MongoDB**.
 
 ---
