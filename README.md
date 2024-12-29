@@ -5,16 +5,16 @@
 ![gif2](https://github.com/user-attachments/assets/b25f9d72-e19c-453a-9e40-d23e065744c4)
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/f63d5826-0982-4fc8-8c7f-dce63b6f6fa9" alt="1" width="49%" />
-  <img src="https://github.com/user-attachments/assets/5be32119-f777-4fb1-8909-ad5ab5e78a50" alt="2" width="49%" />
+  <img src="https://github.com/user-attachments/assets/f63d5826-0982-4fc8-8c7f-dce63b6f6fa9" width="49%" />
+  <img src="https://github.com/user-attachments/assets/5be32119-f777-4fb1-8909-ad5ab5e78a50" width="49%" />
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/edf37940-e03b-47ff-8ef0-0b08c0c61858" alt="3" width="49%" />
-  <img src="https://github.com/user-attachments/assets/a80f170f-4470-400a-9d46-967eecceb2d6" alt="4" width="49%" />
+  <img src="https://github.com/user-attachments/assets/edf37940-e03b-47ff-8ef0-0b08c0c61858" width="49%" />
+  <img src="https://github.com/user-attachments/assets/a80f170f-4470-400a-9d46-967eecceb2d6" width="49%" />
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/e4a0de6c-81dd-4739-ac8b-32b6de7ff454" alt="5" width="49%" />
-  <img src="https://github.com/user-attachments/assets/f67eb811-968a-4c29-b1ed-4383b22283bc" alt="6" width="49%" />
+  <img src="https://github.com/user-attachments/assets/e4a0de6c-81dd-4739-ac8b-32b6de7ff454" width="49%" />
+  <img src="https://github.com/user-attachments/assets/f67eb811-968a-4c29-b1ed-4383b22283bc" width="49%" />
 </div>
 
 ## 📚 Introduction
