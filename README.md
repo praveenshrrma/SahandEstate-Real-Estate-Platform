@@ -31,14 +31,15 @@ The platform leverages a modern tech stack including React, Node.js, MongoDB, an
 
 ## ⚙️ Tech Used
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-lightgrey?style=for-the-badge&logo=express&logoColor=black)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![JWT](https://img.shields.io/badge/JWT-FF6F00?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=black)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![Google OAuth](https://img.shields.io/badge/Google%20OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)  
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google%20OAuth-0F9D58?style=for-the-badge&logo=google&logoColor=white)  
+![Render](https://img.shields.io/badge/Render-1F7FB6?style=for-the-badge&logo=render&logoColor=white)
+
 
 
 ---
