@@ -1,20 +1,26 @@
-![gif1](https://github.com/user-attachments/assets/e365dfaf-8f33-45cc-bb8c-bc24da285f2f)
-![gif2](https://github.com/user-attachments/assets/b25f9d72-e19c-453a-9e40-d23e065744c4)
-![gif3](https://github.com/user-attachments/assets/3200a425-807d-41d0-884a-42c8aab1d4a1)
-![7](https://github.com/user-attachments/assets/9aea9fe5-4599-4852-b39e-aa100808e76d)
+<img src="images/1.gif" alt="GIF 1" width="100%"/>
+<img src="images/2.gif" alt="GIF 2" width="100%"/>
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/f63d5826-0982-4fc8-8c7f-dce63b6f6fa9" width="49%" />
-  <img src="https://github.com/user-attachments/assets/5be32119-f777-4fb1-8909-ad5ab5e78a50" width="49%" />
+<img src="images/3.gif" alt="GIF 3" width="100%"/>
+<img src="images/4.gif" alt="GIF 4" width="100%"/>
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/1.jpg" alt="Image 1" width="49%">
+  <img src="images/2.jpg" alt="Image 2" width="49%">
 </div>
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/edf37940-e03b-47ff-8ef0-0b08c0c61858" width="49%" />
-  <img src="https://github.com/user-attachments/assets/a80f170f-4470-400a-9d46-967eecceb2d6" width="49%" />
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/3.jpg" alt="Image 3" width="49%">
+  <img src="images/4.jpg" alt="Image 4" width="49%">
 </div>
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/e4a0de6c-81dd-4739-ac8b-32b6de7ff454" width="49%" />
-  <img src="https://github.com/user-attachments/assets/f67eb811-968a-4c29-b1ed-4383b22283bc" width="49%" />
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/5.jpg" alt="Image 5" width="49%">
+  <img src="images/6.jpg" alt="Image 6" width="49%">
 </div>
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/7.jpg" alt="Image 7" width="49%">
+</div>
+
+
 
 ## 📚 Introduction
 
